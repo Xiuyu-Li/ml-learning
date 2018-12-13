@@ -1,4 +1,4 @@
 # techx-drl-homework
-My solutions for some of the homework of TechX Deep Reinforcement Learning course taken in July, 2018.  
+My implementations for some mahcine learning algorithms. Most of them are created from scratch.
 
-More specific description and code comments and clearer code styles will be updated in the future.
+This repository is bascially used to record my learning process in the field of machine learning. More specific description and code comments and clearer code styles might be updated in the future.
