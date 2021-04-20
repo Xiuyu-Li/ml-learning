@@ -1,4 +1,4 @@
-# techx-drl-homework
+# ML Toolbox
 My implementations for some mahcine learning algorithms. Most of them are created from scratch.
 
-This repository is bascially used to record my learning process in the field of machine learning. More specific description and code comments and clearer code styles might be updated in the future.
+This repository is used to record my learning process in machine learning and some useful scripts that are frequently used in research.
